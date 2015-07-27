@@ -1,0 +1,9 @@
+{
+  "name": "js13k-toolkit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lucaspenney/js13k-toolkit",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
